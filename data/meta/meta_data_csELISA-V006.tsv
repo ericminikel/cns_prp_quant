@@ -1,0 +1,97 @@
+row	col	stype	detail	dilution			
+A	1	standard	5	1			
+A	2	standard	2	1			
+A	3	standard	0.8	1			
+A	4	standard	0.32	1			
+A	5	standard	0.128	1			
+A	6	standard	0.0512	1			
+A	7	standard	0.02048	1			
+A	8	standard	0	1			
+A	9	sample	Mo Pos Hi QC	200			
+A	10	sample	Mo Pos Hi QC	200			
+A	11	sample	Mo Pos Lo QC	200			
+A	12	sample	Mo Pos Lo QC	200			
+B	1	standard	5	1			
+B	2	standard	2	1			
+B	3	standard	0.8	1			
+B	4	standard	0.32	1			
+B	5	standard	0.128	1			
+B	6	standard	0.0512	1			
+B	7	standard	0.02048	1			
+B	8	standard	0	1			
+B	9	sample	Mo Pos Mid QC	200			
+B	10	sample	Mo Pos Mid QC	200			
+B	11	sample	Mo Neg QC	200			
+B	12	sample	Mo Neg QC	200			
+C	1	sample	Mo Stab Pos Hi - Freshly Thawed	200			
+C	2	sample	Mo Stab Pos Hi - Freshly Thawed	200			
+C	3	sample	Mo Stab Pos Hi - Freshly Thawed	200			
+C	4	sample	Mo Stab Pos Hi - Freshly Thawed	200			
+C	5	sample	Mo Stab Pos Hi - Room Temp 4hrs	200			
+C	6	sample	Mo Stab Pos Hi - Room Temp 4hrs	200			
+C	7	sample	Mo Stab Pos Lo - Freshly Thawed	200			
+C	8	sample	Mo Stab Pos Lo - Freshly Thawed	200			
+C	9	sample	Mo Stab Pos Lo - Freshly Thawed	200			
+C	10	sample	Mo Stab Pos Lo - Freshly Thawed	200			
+C	11	sample	Mo Stab Pos Lo - Room Temp 4hrs	200			
+C	12	sample	Mo Stab Pos Lo - Room Temp 4hrs	200			
+D	1	sample	Mo Stab Pos Hi - Freshly Thawed	200			
+D	2	sample	Mo Stab Pos Hi - Freshly Thawed	200			
+D	3	sample	Mo Stab Pos Hi - Freshly Thawed	200			
+D	4	sample	Mo Stab Pos Hi - Freshly Thawed	200			
+D	5	sample	Mo Stab Pos Hi - Room Temp 4hrs	200			
+D	6	sample	Mo Stab Pos Hi - Room Temp 4hrs	200			
+D	7	sample	Mo Stab Pos Lo - Freshly Thawed	200			
+D	8	sample	Mo Stab Pos Lo - Freshly Thawed	200			
+D	9	sample	Mo Stab Pos Lo - Freshly Thawed	200			
+D	10	sample	Mo Stab Pos Lo - Freshly Thawed	200			
+D	11	sample	Mo Stab Pos Lo - Room Temp 4hrs	200			
+D	12	sample	Mo Stab Pos Lo - Room Temp 4hrs	200			
+E	1	sample	Mo Stab Pos Hi - Freeze Thaw 1 cycle	200			
+E	2	sample	Mo Stab Pos Hi - Freeze Thaw 1 cycle	200			
+E	3	sample	Mo Stab Pos Hi - Freeze Thaw 2 cycles	200			
+E	4	sample	Mo Stab Pos Hi - Freeze Thaw 2 cycles	200			
+E	5	sample	Mo Stab Pos Hi - 4C 4hrs	200			
+E	6	sample	Mo Stab Pos Hi - 4C 4hrs	200			
+E	7	sample	Mo Stab Pos Lo - Freeze Thaw 1 cycle	200			
+E	8	sample	Mo Stab Pos Lo - Freeze Thaw 1 cycle	200			
+E	9	sample	Mo Stab Pos Lo - Freeze Thaw 2 cycles	200			
+E	10	sample	Mo Stab Pos Lo - Freeze Thaw 2 cycles	200			
+E	11	sample	Mo Stab Pos Lo - 4C 4hrs	200			
+E	12	sample	Mo Stab Pos Lo - 4C 4hrs	200			
+F	1	sample	Mo Stab Pos Hi - Freeze Thaw 1 cycle	200			
+F	2	sample	Mo Stab Pos Hi - Freeze Thaw 1 cycle	200			
+F	3	sample	Mo Stab Pos Hi - Freeze Thaw 2 cycles	200			
+F	4	sample	Mo Stab Pos Hi - Freeze Thaw 2 cycles	200			
+F	5	sample	Mo Stab Pos Hi - 4C 4hrs	200			
+F	6	sample	Mo Stab Pos Hi - 4C 4hrs	200			
+F	7	sample	Mo Stab Pos Lo - Freeze Thaw 1 cycle	200			
+F	8	sample	Mo Stab Pos Lo - Freeze Thaw 1 cycle	200			
+F	9	sample	Mo Stab Pos Lo - Freeze Thaw 2 cycles	200			
+F	10	sample	Mo Stab Pos Lo - Freeze Thaw 2 cycles	200			
+F	11	sample	Mo Stab Pos Lo - 4C 4hrs	200			
+F	12	sample	Mo Stab Pos Lo - 4C 4hrs	200			
+G	1	sample	Mo Stab Pos Hi - Transfer Plastic 1 cycle	200			
+G	2	sample	Mo Stab Pos Hi - Transfer Plastic 1 cycle	200			
+G	3	sample	Mo Stab Pos Hi - Transfer Plastic 2 cycles	200			
+G	4	sample	Mo Stab Pos Hi - Transfer Plastic 2 cycles	200			
+G	5	sample	Mo Stab Pos Hi - Transfer Plastic 3 cycles	200			
+G	6	sample	Mo Stab Pos Hi - Transfer Plastic 3 cycles	200			
+G	7	sample	Mo Stab Pos Lo - Transfer Plastic 1 cycle	200			
+G	8	sample	Mo Stab Pos Lo - Transfer Plastic 1 cycle	200			
+G	9	sample	Mo Stab Pos Lo - Transfer Plastic 2 cycles	200			
+G	10	sample	Mo Stab Pos Lo - Transfer Plastic 2 cycles	200			
+G	11	sample	Mo Stab Pos Lo - Transfer Plastic 3 cycles	200			
+G	12	sample	Mo Stab Pos Lo - Transfer Plastic 3 cycles	200			
+H	1	sample	Mo Stab Pos Hi - Transfer Plastic 1 cycle	200			
+H	2	sample	Mo Stab Pos Hi - Transfer Plastic 1 cycle	200			
+H	3	sample	Mo Stab Pos Hi - Transfer Plastic 2 cycles	200			
+H	4	sample	Mo Stab Pos Hi - Transfer Plastic 2 cycles	200			
+H	5	sample	Mo Stab Pos Hi - Transfer Plastic 3 cycles	200			
+H	6	sample	Mo Stab Pos Hi - Transfer Plastic 3 cycles	200			
+H	7	sample	Mo Stab Pos Lo - Transfer Plastic 1 cycle	200			
+H	8	sample	Mo Stab Pos Lo - Transfer Plastic 1 cycle	200			
+H	9	sample	Mo Stab Pos Lo - Transfer Plastic 2 cycles	200			
+H	10	sample	Mo Stab Pos Lo - Transfer Plastic 2 cycles	200			
+H	11	sample	Mo Stab Pos Lo - Transfer Plastic 3 cycles	200			
+H	12	sample	Mo Stab Pos Lo - Transfer Plastic 3 cycles	200			

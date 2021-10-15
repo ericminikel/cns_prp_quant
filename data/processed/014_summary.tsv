@@ -1,0 +1,12 @@
+sample	standard_curve	ngml_av	se_mean	flag
+0% WT to KO	MoPrP16	6.302	0.525	
+10% WT to KO	MoPrP16	20.773	2.826	
+100% WT to KO	MoPrP16	92.921	14.134	
+25% WT to KO	MoPrP16	38.566	5.171	
+50% WT to KO	MoPrP16	55.061	9.008	
+75% WT to KO	MoPrP16	72.911	12.874	
+90% WT to KO	MoPrP16	84.286	13.034	
+Mo Neg QC	MoPrP16	5.738	0.966	
+Mo Pos Hi QC	MoPrP16	94.703	14.976	
+Mo Pos Lo QC	MoPrP16	17.205	1.771	
+Mo Pos Mid QC	MoPrP16	53.541	8.042	

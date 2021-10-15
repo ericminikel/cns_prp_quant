@@ -1,0 +1,33 @@
+row	col	stype	detail	dilution
+A	1	standard	5	1
+A	2	standard	5	1
+A	3	sample	Mo Pos Hi QC	800
+A	4	sample	Mo Pos Hi QC	800
+A	5	sample	Mo Pos Hi QC	1600
+A	6	sample	Mo Pos Hi QC	1600
+B	1	standard	2	1
+B	2	standard	2	1
+B	3	sample	Mo Pos Mid QC	800
+B	4	sample	Mo Pos Mid QC	800
+B	5	sample	Mo Pos Mid QC	1600
+B	6	sample	Mo Pos Mid QC	1600
+C	1	standard	0.8	1
+C	2	standard	0.8	1
+C	3	sample	Mo Pos Lo QC	800
+C	4	sample	Mo Pos Lo QC	800
+C	5	sample	Mo Pos Lo QC	1600
+C	6	sample	Mo Pos Lo QC	1600
+D	1	standard	0.32	1
+D	2	standard	0.32	1
+D	3	sample	Mo Neg QC	800
+D	4	sample	Mo Neg QC	800
+D	5	sample	Mo Neg QC	1600
+D	6	sample	Mo Neg QC	1600
+E	1	standard	0.128	1
+E	2	standard	0.128	1
+F	1	standard	0.0512	1
+F	2	standard	0.0512	1
+G	1	standard	0.02048	1
+G	2	standard	0.02048	1
+H	1	standard	0	1
+H	2	standard	0	1

@@ -1,0 +1,12 @@
+sample	standard_curve	ngml_av	se_mean	flag
+0% WT to KO 	only	39.867	3.055	
+10% WT to KO 	only	44.545	14.893	
+100% WT to KO 	only	228.748	65.329	
+25% WT to KO 	only	77.357	21.463	
+50% WT to KO 	only	111.797	30.195	
+75% WT to KO 	only	147.531	38.06	
+90% WT to KO 	only	200.63	54.744	
+Mo Neg QC	only	20.869	7.08	
+Mo Pos Hi QC	only	204.776	54.45	
+Mo Pos Lo QC	only	39.394	12.015	
+Mo Pos Mid QC	only	109.31	30.071	

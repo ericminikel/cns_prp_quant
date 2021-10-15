@@ -1,0 +1,97 @@
+row	col	stype	detail	dilution	standard_curve
+A	1	standard	Std01	1	current Ab
+A	2	standard	Std02	1	current Ab
+A	3	standard	Std03	1	current Ab
+A	4	standard	Std04	1	current Ab
+A	5	standard	Std05	1	current Ab
+A	6	standard	Std06	1	current Ab
+A	7	standard	Std07	1	current Ab
+A	8	standard	Std08	1	current Ab
+A	9	sample	Mo0.0x	100	current Ab
+A	10	sample	Mo0.0x	100	current Ab
+A	11	sample	Mo0.1x	100	current Ab
+A	12	sample	Mo0.1x	100	current Ab
+B	1	standard	Std01	1	current Ab
+B	2	standard	Std02	1	current Ab
+B	3	standard	Std03	1	current Ab
+B	4	standard	Std04	1	current Ab
+B	5	standard	Std05	1	current Ab
+B	6	standard	Std06	1	current Ab
+B	7	standard	Std07	1	current Ab
+B	8	standard	Std08	1	current Ab
+B	9	sample	Mo0.25x	100	current Ab
+B	10	sample	Mo0.25x	100	current Ab
+B	11	sample	Mo0.5x	100	current Ab
+B	12	sample	Mo0.5x	100	current Ab
+C	1	standard	Std01	1	new Ab - BCA
+C	2	standard	Std02	1	new Ab - BCA
+C	3	standard	Std03	1	new Ab - BCA
+C	4	standard	Std04	1	new Ab - BCA
+C	5	standard	Std05	1	new Ab - BCA
+C	6	standard	Std06	1	new Ab - BCA
+C	7	standard	Std07	1	new Ab - BCA
+C	8	standard	Std08	1	new Ab - BCA
+C	9	sample	Mo0.75x	100	current Ab
+C	10	sample	Mo0.75x	100	current Ab
+C	11	sample	Mo0.9x	100	current Ab
+C	12	sample	Mo0.9x	100	current Ab
+D	1	standard	Std01	1	new Ab - BCA
+D	2	standard	Std02	1	new Ab - BCA
+D	3	standard	Std03	1	new Ab - BCA
+D	4	standard	Std04	1	new Ab - BCA
+D	5	standard	Std05	1	new Ab - BCA
+D	6	standard	Std06	1	new Ab - BCA
+D	7	standard	Std07	1	new Ab - BCA
+D	8	standard	Std08	1	new Ab - BCA
+D	9	sample	Mo1.0x	100	current Ab
+D	10	sample	Mo1.0x	100	current Ab
+D	11	sample	ratA2-CSF	16	current Ab
+D	12	sample	ratA2-CSF	16	current Ab
+E	1	standard	Std01	1	new Ab - NanoDrop
+E	2	standard	Std02	1	new Ab - NanoDrop
+E	3	standard	Std03	1	new Ab - NanoDrop
+E	4	standard	Std04	1	new Ab - NanoDrop
+E	5	standard	Std05	1	new Ab - NanoDrop
+E	6	standard	Std06	1	new Ab - NanoDrop
+E	7	standard	Std07	1	new Ab - NanoDrop
+E	8	standard	Std08	1	new Ab - NanoDrop
+E	9	sample	ratA4-CSF	16	current Ab
+E	10	sample	ratA4-CSF	16	current Ab
+E	11	sample	ratB3-CSF	16	current Ab
+E	12	sample	ratB3-CSF	16	current Ab
+F	1	standard	Std01	1	new Ab - NanoDrop
+F	2	standard	Std02	1	new Ab - NanoDrop
+F	3	standard	Std03	1	new Ab - NanoDrop
+F	4	standard	Std04	1	new Ab - NanoDrop
+F	5	standard	Std05	1	new Ab - NanoDrop
+F	6	standard	Std06	1	new Ab - NanoDrop
+F	7	standard	Std07	1	new Ab - NanoDrop
+F	8	standard	Std08	1	new Ab - NanoDrop
+F	9	sample	57316	100	current Ab
+F	10	sample	57316	100	current Ab
+F	11	sample	57319	100	current Ab
+F	12	sample	57319	100	current Ab
+G	1	sample	57320	100	current Ab
+G	2	sample	57320	100	current Ab
+G	3	sample	57299	100	current Ab
+G	4	sample	57299	100	current Ab
+G	5	sample	57369	100	current Ab
+G	6	sample	57369	100	current Ab
+G	7	sample	57328	100	current Ab
+G	8	sample	57328	100	current Ab
+G	9	sample	57336	100	current Ab
+G	10	sample	57336	100	current Ab
+G	11	sample	57332	100	current Ab
+G	12	sample	57332	100	current Ab
+H	1	sample	57385	100	current Ab
+H	2	sample	57385	100	current Ab
+H	3	sample	Stab01	8	current Ab
+H	4	sample	Stab01	8	current Ab
+H	5	sample	Stab01	8	current Ab
+H	6	sample	Stab01	8	current Ab
+H	7				
+H	8				
+H	9				
+H	10				
+H	11				
+H	12				

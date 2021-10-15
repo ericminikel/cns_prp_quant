@@ -1,0 +1,55 @@
+dispname	colname	metatissue	color
+Adipose - Subcutaneous	adipose___subcutaneous	adipose	#EF6537
+Adipose - Visceral (Omentum)	adipose___visceral__omentum_	adipose	#F5AA41
+Adrenal Gland	adrenal_gland	adrenal	#68DE39
+Artery - Aorta	artery___aorta	artery	#EE524F
+Artery - Coronary	artery___coronary	artery	#EE524F
+Artery - Tibial	artery___tibial	artery	#EE524F
+Bladder	bladder	bladder	#AB2622
+Brain - Amygdala	brain___amygdala	brain	#EEEF4D
+Brain - Anterior cingulate cortex (BA24)	brain___anterior_cingulate_cortex__ba24_	brain	#EEEF4D
+Brain - Caudate (basal ganglia)	brain___caudate__basal_ganglia_	brain	#EEEF4D
+Brain - Cerebellar Hemisphere	brain___cerebellar_hemisphere	brain	#EEEF4D
+Brain - Cerebellum	brain___cerebellum	brain	#EEEF4D
+Brain - Cortex	brain___cortex	brain	#EEEF4D
+Brain - Frontal Cortex (BA9)	brain___frontal_cortex__ba9_	brain	#EEEF4D
+Brain - Hippocampus	brain___hippocampus	brain	#EEEF4D
+Brain - Hypothalamus	brain___hypothalamus	brain	#EEEF4D
+Brain - Nucleus accumbens (basal ganglia)	brain___nucleus_accumbens__basal_ganglia_	brain	#EEEF4D
+Brain - Putamen (basal ganglia)	brain___putamen__basal_ganglia_	brain	#EEEF4D
+Brain - Spinal cord (cervical c-1)	brain___spinal_cord__cervical_c_1_	brain	#EEEF4D
+Brain - Substantia nigra	brain___substantia_nigra	brain	#EEEF4D
+Breast - Mammary Tissue	breast___mammary_tissue	breast	#58CCCC
+Cells - Cultured fibroblasts	cells___cultured_fibroblasts	fibroblast	#AAEDFC
+Cells - EBV-transformed lymphocytes	cells___ebv_transformed_lymphocytes	lymphocyte	#CA67F4
+Cervix - Ectocervix	cervix___ectocervix	cervix	#F8CCCC
+Cervix - Endocervix	cervix___endocervix	cervix	#CCAADD
+Colon - Sigmoid	colon___sigmoid	colon	#EEBB77
+Colon - Transverse	colon___transverse	colon	#CC9955
+Esophagus - Gastroesophageal Junction	esophagus___gastroesophageal_junction	esophagus	#8B7355
+Esophagus - Mucosa	esophagus___mucosa	esophagus	#55220D
+Esophagus - Muscularis	esophagus___muscularis	esophagus	#BB9988
+Fallopian Tube	fallopian_tube	fallopian	#F8CCCC
+Heart - Atrial Appendage	heart___atrial_appendage	heart	#9D4EF7
+Heart - Left Ventricle	heart___left_ventricle	heart	#682E98
+Kidney - Cortex	kidney___cortex	kidney	#60D7C3
+Kidney - Medulla	kidney___medulla	kidney	#72F8C7
+Liver	liver	liver	#9BAB65
+Lung	lung	lung	#95F443
+Minor Salivary Gland	minor_salivary_gland	salivary	#99BB88
+Muscle - Skeletal	muscle___skeletal	muscle	#A3A3EE
+Nerve - Tibial	nerve___tibial	nerve	#FBD84A
+Ovary	ovary	ovary	#F2A9FB
+Pancreas	pancreas	pancreas	#9C612E
+Pituitary	pituitary	pituitary	#A7F798
+Prostate	prostate	prostate	#DDDDDD
+Skin - Not Sun Exposed (Suprapubic)	skin___not_sun_exposed__suprapubic_	skin	#2046F6
+Skin - Sun Exposed (Lower leg)	skin___sun_exposed__lower_leg_	skin	#7776F7
+Small Intestine - Terminal Ileum	small_intestine___terminal_ileum	intestine	#555522
+Spleen	spleen	spleen	#718357
+Stomach	stomach	stomach	#FBDD99
+Testis	testis	testis	#AAAAAA
+Thyroid	thyroid	thyroid	#2D6715
+Uterus	uterus	uterus	#EB62F9
+Vagina	vagina	vagina	#ED5198
+Whole Blood	whole_blood	blood	#E148B4

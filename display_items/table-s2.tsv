@@ -1,0 +1,17 @@
+stabsample	condition	n	mean	cv	re
+Mo Stab Pos Hi	Freshly Thawed	8	110.7	6%	0%
+Mo Stab Pos Hi	4C 4hrs	4	142.3	1.4%	29%
+Mo Stab Pos Hi	Freeze Thaw 1 cycle	4	117.5	4.2%	6.2%
+Mo Stab Pos Hi	Freeze Thaw 2 cycles	4	129.0	4.1%	17%
+Mo Stab Pos Hi	Room Temp 4hrs	4	161.3	2.3%	46%
+Mo Stab Pos Hi	Transfer Plastic 1 cycle	4	111.0	5.2%	0.31%
+Mo Stab Pos Hi	Transfer Plastic 2 cycles	4	117.3	5.9%	6%
+Mo Stab Pos Hi	Transfer Plastic 3 cycles	4	127.4	3.9%	15%
+Mo Stab Pos Lo	Freshly Thawed	8	20.2	14%	0%
+Mo Stab Pos Lo	4C 4hrs	4	26.1	10%	29%
+Mo Stab Pos Lo	Freeze Thaw 1 cycle	4	24.3	12%	20%
+Mo Stab Pos Lo	Freeze Thaw 2 cycles	4	29.3	8.6%	45%
+Mo Stab Pos Lo	Room Temp 4hrs	4	31.5	2.4%	56%
+Mo Stab Pos Lo	Transfer Plastic 1 cycle	4	24.6	6.6%	22%
+Mo Stab Pos Lo	Transfer Plastic 2 cycles	4	25.3	8.4%	25%
+Mo Stab Pos Lo	Transfer Plastic 3 cycles	4	22.6	17%	12%

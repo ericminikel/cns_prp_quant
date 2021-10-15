@@ -1,0 +1,97 @@
+plate	row	col	a450_bck	stype	detail	dilution	standard_curve	above_baseline	nominal	ngml	ngml_trunc	flag
+17	A	1	2.1008	standard	5	1	only	TRUE	5	4.944	4.944	
+17	A	2	1.2988	standard	2	1	only	TRUE	2	1.966	1.966	
+17	A	3	0.6298	standard	0.8	1	only	TRUE	0.8	0.785	0.785	
+17	A	4	0.2851	standard	0.32	1	only	TRUE	0.32	0.319	0.319	
+17	A	5	0.1568	standard	0.128	1	only	TRUE	0.128	0.145	0.145	
+17	A	6	0.0832	standard	0.0512	1	only	TRUE	0.0512	0.03	0.03	
+17	A	7	0.0625	standard	0.02048	1	only	TRUE	0.02048	NA	0.051	LLQ
+17	A	8	0.0422	standard	0	1	only	FALSE	0	NA	0.051	LLQ
+17	A	9	0.5853	sample	Mo Pos Hi QC	200	only	TRUE	NA	144.503	144.503	
+17	A	10	0.5566	sample	Mo Pos Hi QC	200	only	TRUE	NA	136.503	136.503	
+17	A	11	0.0982	sample	Mo Pos Lo QC	200	only	TRUE	NA	11.262	11.262	
+17	A	12	0.0835	sample	Mo Pos Lo QC	200	only	TRUE	NA	6.095	6.095	
+17	B	1	2.1163	standard	5	1	only	TRUE	5	5.044	5	ULQ
+17	B	2	1.3376	standard	2	1	only	TRUE	2	2.055	2.055	
+17	B	3	0.6304	standard	0.8	1	only	TRUE	0.8	0.786	0.786	
+17	B	4	0.3025	standard	0.32	1	only	TRUE	0.32	0.342	0.342	
+17	B	5	0.1473	standard	0.128	1	only	TRUE	0.128	0.131	0.131	
+17	B	6	0.0895	standard	0.0512	1	only	TRUE	0.0512	0.041	0.041	
+17	B	7	0.0646	standard	0.02048	1	only	TRUE	0.02048	NA	0.051	LLQ
+17	B	8	0.0467	standard	0	1	only	TRUE	0	NA	0.051	LLQ
+17	B	9	0.3047	sample	Mo Pos Mid QC	200	only	TRUE	NA	68.985	68.985	
+17	B	10	0.2887	sample	Mo Pos Mid QC	200	only	TRUE	NA	64.761	64.761	
+17	B	11	0.0557	sample	Mo Neg QC	200	only	TRUE	NA	NA	10.24	LLQ
+17	B	12	0.0457	sample	Mo Neg QC	200	only	TRUE	NA	NA	10.24	LLQ
+17	C	1	0.4281	sample	Mo Stab Pos Hi - Freshly Thawed	200	only	TRUE	NA	101.622	101.622	
+17	C	2	0.454	sample	Mo Stab Pos Hi - Freshly Thawed	200	only	TRUE	NA	108.55	108.55	
+17	C	3	0.4751	sample	Mo Stab Pos Hi - Freshly Thawed	200	only	TRUE	NA	114.227	114.227	
+17	C	4	0.4994	sample	Mo Stab Pos Hi - Freshly Thawed	200	only	TRUE	NA	120.807	120.807	
+17	C	5	0.6398	sample	Mo Stab Pos Hi - Room Temp 4hrs	200	only	TRUE	NA	159.959	159.959	
+17	C	6	0.6436	sample	Mo Stab Pos Hi - Room Temp 4hrs	200	only	TRUE	NA	161.05	161.05	
+17	C	7	0.118	sample	Mo Stab Pos Lo - Freshly Thawed	200	only	TRUE	NA	17.584	17.584	
+17	C	8	0.1159	sample	Mo Stab Pos Lo - Freshly Thawed	200	only	TRUE	NA	16.935	16.935	
+17	C	9	0.1199	sample	Mo Stab Pos Lo - Freshly Thawed	200	only	TRUE	NA	18.168	18.168	
+17	C	10	0.1191	sample	Mo Stab Pos Lo - Freshly Thawed	200	only	TRUE	NA	17.922	17.922	
+17	C	11	0.1669	sample	Mo Stab Pos Lo - Room Temp 4hrs	200	only	TRUE	NA	31.877	31.877	
+17	C	12	0.1641	sample	Mo Stab Pos Lo - Room Temp 4hrs	200	only	TRUE	NA	31.089	31.089	
+17	D	1	0.4449	sample	Mo Stab Pos Hi - Freshly Thawed	200	only	TRUE	NA	106.111	106.111	
+17	D	2	0.4405	sample	Mo Stab Pos Hi - Freshly Thawed	200	only	TRUE	NA	104.934	104.934	
+17	D	3	0.4639	sample	Mo Stab Pos Hi - Freshly Thawed	200	only	TRUE	NA	111.209	111.209	
+17	D	4	0.4891	sample	Mo Stab Pos Hi - Freshly Thawed	200	only	TRUE	NA	118.012	118.012	
+17	D	5	0.6314	sample	Mo Stab Pos Hi - Room Temp 4hrs	200	only	TRUE	NA	157.552	157.552	
+17	D	6	0.6625	sample	Mo Stab Pos Hi - Room Temp 4hrs	200	only	TRUE	NA	166.508	166.508	
+17	D	7	0.1396	sample	Mo Stab Pos Lo - Freshly Thawed	200	only	TRUE	NA	24.057	24.057	
+17	D	8	0.1364	sample	Mo Stab Pos Lo - Freshly Thawed	200	only	TRUE	NA	23.118	23.118	
+17	D	9	0.1333	sample	Mo Stab Pos Lo - Freshly Thawed	200	only	TRUE	NA	22.202	22.202	
+17	D	10	0.1318	sample	Mo Stab Pos Lo - Freshly Thawed	200	only	TRUE	NA	21.756	21.756	
+17	D	11	0.1684	sample	Mo Stab Pos Lo - Room Temp 4hrs	200	only	TRUE	NA	32.299	32.299	
+17	D	12	0.1625	sample	Mo Stab Pos Lo - Room Temp 4hrs	200	only	TRUE	NA	30.637	30.637	
+17	E	1	0.465	sample	Mo Stab Pos Hi - Freeze Thaw 1 cycle	200	only	TRUE	NA	111.505	111.505	
+17	E	2	0.4848	sample	Mo Stab Pos Hi - Freeze Thaw 1 cycle	200	only	TRUE	NA	116.848	116.848	
+17	E	3	0.5038	sample	Mo Stab Pos Hi - Freeze Thaw 2 cycles	200	only	TRUE	NA	122.003	122.003	
+17	E	4	0.542	sample	Mo Stab Pos Hi - Freeze Thaw 2 cycles	200	only	TRUE	NA	132.466	132.466	
+17	E	5	0.5803	sample	Mo Stab Pos Hi - 4C 4hrs	200	only	TRUE	NA	143.103	143.103	
+17	E	6	0.5825	sample	Mo Stab Pos Hi - 4C 4hrs	200	only	TRUE	NA	143.718	143.718	
+17	E	7	0.1319	sample	Mo Stab Pos Lo - Freeze Thaw 1 cycle	200	only	TRUE	NA	21.786	21.786	
+17	E	8	0.132	sample	Mo Stab Pos Lo - Freeze Thaw 1 cycle	200	only	TRUE	NA	21.816	21.816	
+17	E	9	0.1512	sample	Mo Stab Pos Lo - Freeze Thaw 2 cycles	200	only	TRUE	NA	27.418	27.418	
+17	E	10	0.1508	sample	Mo Stab Pos Lo - Freeze Thaw 2 cycles	200	only	TRUE	NA	27.304	27.304	
+17	E	11	0.1523	sample	Mo Stab Pos Lo - 4C 4hrs	200	only	TRUE	NA	27.734	27.734	
+17	E	12	0.1326	sample	Mo Stab Pos Lo - 4C 4hrs	200	only	TRUE	NA	21.994	21.994	
+17	F	1	0.509	sample	Mo Stab Pos Hi - Freeze Thaw 1 cycle	200	only	TRUE	NA	123.42	123.42	
+17	F	2	0.4901	sample	Mo Stab Pos Hi - Freeze Thaw 1 cycle	200	only	TRUE	NA	118.283	118.283	
+17	F	3	0.5248	sample	Mo Stab Pos Hi - Freeze Thaw 2 cycles	200	only	TRUE	NA	127.738	127.738	
+17	F	4	0.5468	sample	Mo Stab Pos Hi - Freeze Thaw 2 cycles	200	only	TRUE	NA	133.791	133.791	
+17	F	5	0.5666	sample	Mo Stab Pos Hi - 4C 4hrs	200	only	TRUE	NA	139.28	139.28	
+17	F	6	0.5806	sample	Mo Stab Pos Hi - 4C 4hrs	200	only	TRUE	NA	143.187	143.187	
+17	F	7	0.1492	sample	Mo Stab Pos Lo - Freeze Thaw 1 cycle	200	only	TRUE	NA	26.843	26.843	
+17	F	8	0.1494	sample	Mo Stab Pos Lo - Freeze Thaw 1 cycle	200	only	TRUE	NA	26.901	26.901	
+17	F	9	0.1696	sample	Mo Stab Pos Lo - Freeze Thaw 2 cycles	200	only	TRUE	NA	32.635	32.635	
+17	F	10	0.1594	sample	Mo Stab Pos Lo - Freeze Thaw 2 cycles	200	only	TRUE	NA	29.759	29.759	
+17	F	11	0.1517	sample	Mo Stab Pos Lo - 4C 4hrs	200	only	TRUE	NA	27.562	27.562	
+17	F	12	0.1497	sample	Mo Stab Pos Lo - 4C 4hrs	200	only	TRUE	NA	26.987	26.987	
+17	G	1	0.4456	sample	Mo Stab Pos Hi - Transfer Plastic 1 cycle	200	only	TRUE	NA	106.298	106.298	
+17	G	2	0.4442	sample	Mo Stab Pos Hi - Transfer Plastic 1 cycle	200	only	TRUE	NA	105.923	105.923	
+17	G	3	0.4516	sample	Mo Stab Pos Hi - Transfer Plastic 2 cycles	200	only	TRUE	NA	107.906	107.906	
+17	G	4	0.4843	sample	Mo Stab Pos Hi - Transfer Plastic 2 cycles	200	only	TRUE	NA	116.712	116.712	
+17	G	5	0.5102	sample	Mo Stab Pos Hi - Transfer Plastic 3 cycles	200	only	TRUE	NA	123.747	123.747	
+17	G	6	0.5445	sample	Mo Stab Pos Hi - Transfer Plastic 3 cycles	200	only	TRUE	NA	133.156	133.156	
+17	G	7	0.1443	sample	Mo Stab Pos Lo - Transfer Plastic 1 cycle	200	only	TRUE	NA	25.427	25.427	
+17	G	8	0.147	sample	Mo Stab Pos Lo - Transfer Plastic 1 cycle	200	only	TRUE	NA	26.209	26.209	
+17	G	9	0.1455	sample	Mo Stab Pos Lo - Transfer Plastic 2 cycles	200	only	TRUE	NA	25.775	25.775	
+17	G	10	0.1539	sample	Mo Stab Pos Lo - Transfer Plastic 2 cycles	200	only	TRUE	NA	28.192	28.192	
+17	G	11	0.1344	sample	Mo Stab Pos Lo - Transfer Plastic 3 cycles	200	only	TRUE	NA	22.527	22.527	
+17	G	12	0.1347	sample	Mo Stab Pos Lo - Transfer Plastic 3 cycles	200	only	TRUE	NA	22.616	22.616	
+17	H	1	0.4779	sample	Mo Stab Pos Hi - Transfer Plastic 1 cycle	200	only	TRUE	NA	114.982	114.982	
+17	H	2	0.485	sample	Mo Stab Pos Hi - Transfer Plastic 1 cycle	200	only	TRUE	NA	116.902	116.902	
+17	H	3	0.5008	sample	Mo Stab Pos Hi - Transfer Plastic 2 cycles	200	only	TRUE	NA	121.187	121.187	
+17	H	4	0.5092	sample	Mo Stab Pos Hi - Transfer Plastic 2 cycles	200	only	TRUE	NA	123.474	123.474	
+17	H	5	0.5329	sample	Mo Stab Pos Hi - Transfer Plastic 3 cycles	200	only	TRUE	NA	129.961	129.961	
+17	H	6	0.5062	sample	Mo Stab Pos Hi - Transfer Plastic 3 cycles	200	only	TRUE	NA	122.657	122.657	
+17	H	7	0.1403	sample	Mo Stab Pos Lo - Transfer Plastic 1 cycle	200	only	TRUE	NA	24.262	24.262	
+17	H	8	0.1342	sample	Mo Stab Pos Lo - Transfer Plastic 1 cycle	200	only	TRUE	NA	22.468	22.468	
+17	H	9	0.1387	sample	Mo Stab Pos Lo - Transfer Plastic 2 cycles	200	only	TRUE	NA	23.793	23.793	
+17	H	10	0.1381	sample	Mo Stab Pos Lo - Transfer Plastic 2 cycles	200	only	TRUE	NA	23.617	23.617	
+17	H	11	0.1506	sample	Mo Stab Pos Lo - Transfer Plastic 3 cycles	200	only	TRUE	NA	27.246	27.246	
+17	H	12	0.1196	sample	Mo Stab Pos Lo - Transfer Plastic 3 cycles	200	only	TRUE	NA	18.076	18.076	

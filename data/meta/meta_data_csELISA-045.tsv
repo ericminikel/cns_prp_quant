@@ -1,0 +1,41 @@
+row	col	stype	detail	dilution	standard_curve		
+A	1	standard	5	1	MoPrP16		
+A	2	standard	5	1	MoPrP16		
+A	3	standard	5	1	SHaPrP71		
+A	4	standard	5	1	SHaPrP71		
+A	9	sample	Mo Pos Hi QC	200	MoPrP16		
+A	10	sample	Mo Pos Hi QC	200	MoPrP16		
+B	1	standard	2	1	MoPrP16		
+B	2	standard	2	1	MoPrP16		
+B	3	standard	2	1	SHaPrP71		
+B	4	standard	2	1	SHaPrP71		
+B	9	sample	Mo Pos Mid QC	200	MoPrP16		
+B	10	sample	Mo Pos Mid QC	200	MoPrP16		
+C	1	standard	0.8	1	MoPrP16		
+C	2	standard	0.8	1	MoPrP16		
+C	3	standard	0.8	1	SHaPrP71		
+C	4	standard	0.8	1	SHaPrP71		
+C	9	sample	Mo Pos Lo QC	200	MoPrP16		
+C	10	sample	Mo Pos Lo QC	200	MoPrP16		
+D	1	standard	0.32	1	MoPrP16		
+D	2	standard	0.32	1	MoPrP16		
+D	3	standard	0.32	1	SHaPrP71		
+D	4	standard	0.32	1	SHaPrP71		
+D	9	sample	Mo Neg QC	200	MoPrP16		
+D	10	sample	Mo Neg QC	200	MoPrP16		
+E	1	standard	0.128	1	MoPrP16		
+E	2	standard	0.128	1	MoPrP16		
+E	3	standard	0.128	1	SHaPrP71		
+E	4	standard	0.128	1	SHaPrP71		
+F	1	standard	0.0512	1	MoPrP16		
+F	2	standard	0.0512	1	MoPrP16		
+F	3	standard	0.0512	1	SHaPrP71		
+F	4	standard	0.0512	1	SHaPrP71		
+G	1	standard	0.02048	1	MoPrP16		
+G	2	standard	0.02048	1	MoPrP16		
+G	3	standard	0.02048	1	SHaPrP71		
+G	4	standard	0.02048	1	SHaPrP71		
+H	1	standard	0	1	MoPrP16		
+H	2	standard	0	1	MoPrP16		
+H	3	standard	0	1	SHaPrP71		
+H	4	standard	0	1	SHaPrP71		

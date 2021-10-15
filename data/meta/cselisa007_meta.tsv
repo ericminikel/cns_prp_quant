@@ -1,0 +1,97 @@
+row	col	stype	detail	dilution
+A	1	standard	2.78	1
+A	2	standard	2.78	1
+A	3	sample	01 PrP siRNA	10
+A	4	sample	01 PrP siRNA	10
+A	5	sample	02 PrP siRNA	10
+A	6	sample	02 PrP siRNA	10
+A	7	sample	02 NT-siRNA	160
+A	8	sample	02 NT-siRNA	160
+A	9			
+A	10			
+A	11	sample	BH, 0.2% CHAPS	20
+A	12	sample	BH, 0.2% CHAPS	20
+B	1	standard	5	1
+B	2	standard	5	1
+B	3	sample	01 NT-siRNA	10
+B	4	sample	01 NT-siRNA	10
+B	5	sample	02 NT-siRNA	10
+B	6	sample	02 NT-siRNA	10
+B	7	sample	03 NT-siRNA	10
+B	8	sample	03 NT-siRNA	10
+B	9			
+B	10			
+B	11	sample	BH, 0.2% CHAPS	40
+B	12	sample	BH, 0.2% CHAPS	40
+C	1	standard	1.54	1
+C	2	standard	1.54	1
+C	3	sample	01 No siRNA	10
+C	4	sample	01 No siRNA	10
+C	5	sample	02 No siRNA	10
+C	6	sample	02 No siRNA	10
+C	7	sample	03 No siRNA	10
+C	8	sample	03 No siRNA	10
+C	9			
+C	10			
+C	11	sample	BH, 0.2% CHAPS	80
+C	12	sample	BH, 0.2% CHAPS	80
+D	1	standard	0.858	1
+D	2	standard	0.858	1
+D	3	sample	01 PrP siRNA	40
+D	4	sample	01 PrP siRNA	40
+D	5	sample	02 PrP siRNA	40
+D	6	sample	02 PrP siRNA	40
+D	7	sample	03 PrP siRNA	40
+D	8	sample	03 PrP siRNA	40
+D	9			
+D	10			
+D	11	sample	BH, 0.2% CHAPS	100
+D	12	sample	BH, 0.2% CHAPS	100
+E	1	standard	0.148	1
+E	2	standard	0.148	1
+E	3	sample	01 NT-siRNA	40
+E	4	sample	01 NT-siRNA	40
+E	5	sample	02 NT-siRNA	40
+E	6	sample	02 NT-siRNA	40
+E	7	sample	03 NT-siRNA	40
+E	8	sample	03 NT-siRNA	40
+E	9			
+E	10			
+E	11	sample	BH, 0.2% CHAPS	200
+E	12	sample	BH, 0.2% CHAPS	200
+F	1	standard	0.476	1
+F	2	standard	0.476	1
+F	3	sample	01 No siRNA	40
+F	4	sample	01 No siRNA	40
+F	5	sample	02 No siRNA	40
+F	6	sample	02 No siRNA	40
+F	7	sample	03 No siRNA	40
+F	8	sample	03 No siRNA	40
+F	9	sample	01 No siRNA	160
+F	10	sample	01 No siRNA	160
+F	11	sample	BH, 0.2% CHAPS	400
+F	12	sample	BH, 0.2% CHAPS	400
+G	1	standard	0.265	1
+G	2	standard	0.265	1
+G	3	sample	01 PrP siRNA	160
+G	4	sample	01 PrP siRNA	160
+G	5	sample	02 PrP siRNA	160
+G	6	sample	02 PrP siRNA	160
+G	7	sample	03 PrP siRNA	160
+G	8	sample	03 PrP siRNA	160
+G	9	sample	02 No siRNA	160
+G	10	sample	02 No siRNA	160
+G	11	sample	BH, 0.2% CHAPS	800
+G	12	sample	BH, 0.2% CHAPS	800
+H	1	standard	0	1
+H	2	standard	0	1
+H	3	sample	01 NT-siRNA	160
+H	4	sample	01 NT-siRNA	160
+H	5	sample	02 NT-siRNA	160
+H	6	sample	02 NT-siRNA	160
+H	7	sample	03 NT-siRNA	160
+H	8	sample	03 NT-siRNA	160
+H	9	sample	03 No siRNA	160
+H	10	sample	03 No siRNA	160
+H	11	sample	BH, 0.2% CHAPS	1600
+H	12	sample	BH, 0.2% CHAPS	1600

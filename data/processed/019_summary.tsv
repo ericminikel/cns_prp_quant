@@ -1,0 +1,15 @@
+sample	standard_curve	ngml_av	se_mean	flag
+1965 Post Central Parietal	HuPrP5	72.428	1.385	
+2009 Caudate	HuPrP5	66.618	1.941	
+2009 Mid Temporal	HuPrP5	135.911	1.061	
+2015 Cerebrum	HuPrP5	39.683	1.146	
+F Rat BH	RaPrP50	85.975	2.857	
+M Rat BH	RaPrP50	85.828	0.241	
+Mo Neg QC	MoPrP16	NA	NA	
+Mo Pos Hi QC	MoPrP16	101.336	0.648	
+Mo Pos Lo QC	MoPrP16	12.614	1.006	
+Mo Pos Mid QC	MoPrP16	54.886	0.376	
+N2a cell lysate - 150uL	MoPrP16	1.631	0.082	
+N2a cell lysate - 30uL	MoPrP16	1.86	0.067	
+N2a cell lysate - 75uL	MoPrP16	1.924	0.066	
+SHa BH	SHaPrP71	191.844	0.917	

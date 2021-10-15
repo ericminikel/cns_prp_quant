@@ -1,0 +1,8 @@
+sample	standard_curve	ngml_av	se_mean	flag
+9-IPC	HuPrP5	38.55	1.026	
+CSF 1847	HuPrP5	10.315	0.46	
+CSF 1922	HuPrP5	39.889	0.508	
+Mo Neg QC	MoPrP16	10.24	0	LLQ
+Mo Pos Hi QC	MoPrP16	145.028	6.949	
+Mo Pos Lo QC	MoPrP16	11.617	1.377	
+Mo Pos Mid QC	MoPrP16	72.74	6.138	

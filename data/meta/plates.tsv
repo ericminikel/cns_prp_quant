@@ -1,0 +1,23 @@
+plateno	metafile	datafile	operator	purpose
+011	meta_data_csELISA000-pre-validation.tsv	2020-07-02_MM_csELISA-V000.txt	Mortberg	pre-validation success
+012	meta_data_csELISA-V001.tsv	2020-07-13_MM_csELISA-V001.txt	Mortberg	validation plate 1
+013	meta_data_csELISA-V002.tsv	2020-07-15_MM_csELISA-V002.txt	Mortberg	validation plate 2
+014	meta_data_csELISA-V003.tsv	2020-07-16_MM_csELISA-V003.txt	Mortberg	validation plate 3
+015	meta_data_csELISA-V004.tsv	2020-07-17_MM_csELISA-V004.txt	Mortberg	validation plate 4
+016	meta_data_csELISA-V005.tsv	2020-07-28_MM_csELISA-V005.txt	Mortberg	validation plate 5
+017	meta_data_csELISA-V006.tsv	2020-07-29_MM_csELISA-V006.txt	Mortberg	validation plate 6
+018	meta_data_csELISA-V007.tsv	2020-07-30_MM_csELISA-V007.txt	Mortberg	validation plate 7
+019	meta_data_csELISA-019.tsv	2020-09-11_MM_csELISA-019.txt	Mortberg	misc
+021	meta_data_csELISA-021.tsv	2020-10-22_csELISA-021.txt	Mortberg	adrc human brain regions
+022	meta_data_csELISA-022.tsv	2020-11-12_MM_csELISA-022.txt	Mortberg	dose-response ASO rat brains, pilot rat CSF
+024	meta_data_csELISA-024.tsv	2020-11-18_MM_csELISA-024.txt	Mortberg	dose-response ASO rat CSF
+025	meta_data_csELISA-025.tsv	2020-11-20_MM_csELISA-025.txt	Mortberg	dose-response ASO mouse brain
+028	meta_data_csELISA-028.tsv	2021-03-11-00028-salvage.csv	Mortberg	human CSF parallelism, pilot in prion room
+034	meta_data_csELISA-034.tsv	2021-02-26_MM_csELISA-034.txt	Mortberg	aged rat brain
+035	meta_data_csELISA-035.tsv	2021-03-05_MM_csELISA-035.txt	Mortberg	aged rat CSF
+037	meta_data_csELISA-037.tsv	2021-04-13_MM_csELISA-037.txt	Mortberg	regions
+038	meta_data_csELISA-038.tsv	2021-04-20_MM_csELISA-038.txt	Mortberg	dose-response 2-week ASO mouse brain
+045	meta_data_csELISA-045.tsv	2021-07-22_MM_csELISA-045.csv	Mortberg	hamster std curve repeat
+046	meta_data_csELISA-046.tsv	2021-07-28-00046-salvage.csv	Mortberg	ASO 60 dpi TE
+047	meta_data_csELISA-047.tsv	2021-07-30_MM_csELISA-047.csv	Mortberg	dose-response 4-week ASO mouse brain
+054	meta_data_csELISA-054.tsv	2021-10-04-csELISA-054.csv	Mortberg	NHP regions

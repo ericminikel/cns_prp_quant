@@ -1,0 +1,73 @@
+plate	row	col	a450_bck	stype	detail	dilution	standard_curve	above_baseline	nominal	ngml	ngml_trunc	flag
+15	A	1	1.9252	standard	5	1	only	TRUE	5	5.497	5	ULQ
+15	A	2	1.9047	standard	5	1	only	TRUE	5	5.381	5	ULQ
+15	A	3	1.781	standard	5	1	only	TRUE	5	4.738	4.738	
+15	A	4	1.7603	standard	5	1	only	TRUE	5	4.639	4.639	
+15	A	5	1.7945	standard	5	1	only	TRUE	5	4.804	4.804	
+15	A	6	1.8335	standard	5	1	only	TRUE	5	5.001	5	ULQ
+15	A	7	0.366	sample	Mo Pos Hi QC	200	only	TRUE	NA	131.307	131.307	
+15	A	8	0.4009	sample	Mo Pos Hi QC	200	only	TRUE	NA	144.43	144.43	
+15	A	9	0.4196	sample	Mo Pos Hi QC	200	only	TRUE	NA	151.517	151.517	
+15	B	1	1.0468	standard	2	1	only	TRUE	2	2.139	2.139	
+15	B	2	1.0025	standard	2	1	only	TRUE	2	2.025	2.025	
+15	B	3	0.9662	standard	2	1	only	TRUE	2	1.933	1.933	
+15	B	4	0.959	standard	2	1	only	TRUE	2	1.916	1.916	
+15	B	5	0.9731	standard	2	1	only	TRUE	2	1.951	1.951	
+15	B	6	1.0153	standard	2	1	only	TRUE	2	2.057	2.057	
+15	B	7	0.3762	sample	Mo Pos Hi QC	200	only	TRUE	NA	135.129	135.129	
+15	B	8	0.4186	sample	Mo Pos Hi QC	200	only	TRUE	NA	151.137	151.137	
+15	B	9	0.4104	sample	Mo Pos Hi QC	200	only	TRUE	NA	148.025	148.025	
+15	C	1	0.4494	standard	0.8	1	only	TRUE	0.8	0.814	0.814	
+15	C	2	0.4474	standard	0.8	1	only	TRUE	0.8	0.811	0.811	
+15	C	3	0.4368	standard	0.8	1	only	TRUE	0.8	0.79	0.79	
+15	C	4	0.4472	standard	0.8	1	only	TRUE	0.8	0.81	0.81	
+15	C	5	0.4266	standard	0.8	1	only	TRUE	0.8	0.771	0.771	
+15	C	6	0.4267	standard	0.8	1	only	TRUE	0.8	0.771	0.771	
+15	C	7	0.2092	sample	Mo Pos Mid QC	200	only	TRUE	NA	73.433	73.433	
+15	C	8	0.2061	sample	Mo Pos Mid QC	200	only	TRUE	NA	72.295	72.295	
+15	C	9	0.2077	sample	Mo Pos Mid QC	200	only	TRUE	NA	72.882	72.882	
+15	D	1	0.1883	standard	0.32	1	only	TRUE	0.32	0.329	0.329	
+15	D	2	0.1856	standard	0.32	1	only	TRUE	0.32	0.324	0.324	
+15	D	3	0.1891	standard	0.32	1	only	TRUE	0.32	0.33	0.33	
+15	D	4	0.2003	standard	0.32	1	only	TRUE	0.32	0.351	0.351	
+15	D	5	0.1784	standard	0.32	1	only	TRUE	0.32	0.311	0.311	
+15	D	6	0.1771	standard	0.32	1	only	TRUE	0.32	0.308	0.308	
+15	D	7	0.2312	sample	Mo Pos Mid QC	200	only	TRUE	NA	81.503	81.503	
+15	D	8	0.2153	sample	Mo Pos Mid QC	200	only	TRUE	NA	75.671	75.671	
+15	D	9	0.2156	sample	Mo Pos Mid QC	200	only	TRUE	NA	75.781	75.781	
+15	E	1	0.0864	standard	0.128	1	only	TRUE	0.128	0.138	0.138	
+15	E	2	0.0793	standard	0.128	1	only	TRUE	0.128	0.124	0.124	
+15	E	3	0.0814	standard	0.128	1	only	TRUE	0.128	0.128	0.128	
+15	E	4	0.0902	standard	0.128	1	only	TRUE	0.128	0.145	0.145	
+15	E	5	0.0783	standard	0.128	1	only	TRUE	0.128	0.122	0.122	
+15	E	6	0.0781	standard	0.128	1	only	TRUE	0.128	0.121	0.121	
+15	E	7	0.0824	sample	Mo Pos Lo QC	200	only	TRUE	NA	25.969	25.969	
+15	E	8	0.0884	sample	Mo Pos Lo QC	200	only	TRUE	NA	28.31	28.31	
+15	E	9	0.0873	sample	Mo Pos Lo QC	200	only	TRUE	NA	27.882	27.882	
+15	F	1	0.0416	standard	0.0512	1	only	TRUE	0.0512	0.046	0.046	
+15	F	2	0.0413	standard	0.0512	1	only	TRUE	0.0512	0.046	0.046	
+15	F	3	0.0434	standard	0.0512	1	only	TRUE	0.0512	0.05	0.05	
+15	F	4	0.0421	standard	0.0512	1	only	TRUE	0.0512	0.047	0.047	
+15	F	5	0.0443	standard	0.0512	1	only	TRUE	0.0512	0.052	0.052	
+15	F	6	0.0398	standard	0.0512	1	only	TRUE	0.0512	0.042	0.042	
+15	F	7	0.0811	sample	Mo Pos Lo QC	200	only	TRUE	NA	25.459	25.459	
+15	F	8	0.083	sample	Mo Pos Lo QC	200	only	TRUE	NA	26.204	26.204	
+15	F	9	0.0826	sample	Mo Pos Lo QC	200	only	TRUE	NA	26.048	26.048	
+15	G	1	0.0273	standard	0.02048	1	only	TRUE	0.02048	0.013	0.051	LLQ
+15	G	2	0.0293	standard	0.02048	1	only	TRUE	0.02048	0.018	0.051	LLQ
+15	G	3	0.0265	standard	0.02048	1	only	TRUE	0.02048	0.01	0.051	LLQ
+15	G	4	0.0306	standard	0.02048	1	only	TRUE	0.02048	0.021	0.051	LLQ
+15	G	5	0.0234	standard	0.02048	1	only	TRUE	0.02048	0.001	0.051	LLQ
+15	G	6	0.0276	standard	0.02048	1	only	TRUE	0.02048	0.013	0.051	LLQ
+15	G	7	0.0457	sample	Mo Neg QC	200	only	TRUE	NA	11.022	11.022	
+15	G	8	0.0494	sample	Mo Neg QC	200	only	TRUE	NA	12.603	12.603	
+15	G	9	0.0454	sample	Mo Neg QC	200	only	TRUE	NA	10.892	10.892	
+15	H	1	0.0154	standard	0	1	only	FALSE	0	NA	0.051	LLQ
+15	H	2	0.0152	standard	0	1	only	FALSE	0	NA	0.051	LLQ
+15	H	3	0.0159	standard	0	1	only	TRUE	0	NA	0.051	LLQ
+15	H	4	0.0177	standard	0	1	only	TRUE	0	NA	0.051	LLQ
+15	H	5	0.0142	standard	0	1	only	FALSE	0	NA	0.051	LLQ
+15	H	6	0.015	standard	0	1	only	FALSE	0	NA	0.051	LLQ
+15	H	7	0.0374	sample	Mo Neg QC	200	only	TRUE	NA	7.361	7.361	
+15	H	8	0.0379	sample	Mo Neg QC	200	only	TRUE	NA	7.587	7.587	
+15	H	9	0.0349	sample	Mo Neg QC	200	only	TRUE	NA	6.216	6.216	

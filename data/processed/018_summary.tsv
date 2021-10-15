@@ -1,0 +1,5 @@
+sample	standard_curve	ngml_av	se_mean	flag
+Mo Neg QC	MoPrP16	NA	NA	
+Mo Pos Hi QC	MoPrP16	131.618	2.269	
+Mo Pos Lo QC	MoPrP16	17.257	0.532	
+Mo Pos Mid QC	MoPrP16	63.925	0.561	

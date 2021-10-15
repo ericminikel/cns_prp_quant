@@ -1,0 +1,97 @@
+row	col	stype	detail	dilution
+A	1	standard	5	1
+A	2	standard	2.78	1
+A	3	standard	1.54	1
+A	4	standard	0.858	1
+A	5	standard	0.476	1
+A	6	standard	0.265	1
+A	7	standard	0.148	1
+A	8	standard	0	1
+A	9			
+A	10			
+A	11			
+A	12			
+B	1	standard	5	1
+B	2	standard	2.78	1
+B	3	standard	1.54	1
+B	4	standard	0.858	1
+B	5	standard	0.476	1
+B	6	standard	0.265	1
+B	7	standard	0.148	1
+B	8	standard	0	1
+B	9			
+B	10			
+B	11			
+B	12			
+C	1	sample	001 L pre	100
+C	2	sample	001 L pre	100
+C	3	sample	001 R pre	100
+C	4	sample	001 R pre	100
+C	5	sample	002 L pre	100
+C	6	sample	002 L pre	100
+C	7	sample	002 R pre	100
+C	8	sample	002 R pre	100
+C	9	sample	003 L pre	100
+C	10	sample	003 L pre	100
+C	11	sample	003 R pre	100
+C	12	sample	003 R pre	100
+D	1	sample	001 L post	100
+D	2	sample	001 L post	100
+D	3	sample	001 R post	100
+D	4	sample	001 R post	100
+D	5	sample	002 L post	100
+D	6	sample	002 L post	100
+D	7	sample	002 R post	100
+D	8	sample	002 R post	100
+D	9	sample	003 L post	100
+D	10	sample	003 L post	100
+D	11	sample	003 R post	100
+D	12	sample	003 R post	100
+E	1	sample	004 L pre	100
+E	2	sample	004 L pre	100
+E	3	sample	004 R pre	100
+E	4	sample	004 R pre	100
+E	5	sample	005 L pre	100
+E	6	sample	005 L pre	100
+E	7	sample	005 R pre	100
+E	8	sample	005 R pre	100
+E	9	sample	006 L pre	100
+E	10	sample	006 L pre	100
+E	11	sample	006 R pre	100
+E	12	sample	006 R pre	100
+F	1	sample	004 L post	100
+F	2	sample	004 L post	100
+F	3	sample	004 R post	100
+F	4	sample	004 R post	100
+F	5	sample	005 L post	100
+F	6	sample	005 L post	100
+F	7	sample	005 R post	100
+F	8	sample	005 R post	100
+F	9	sample	006 L post	100
+F	10	sample	006 L post	100
+F	11	sample	006 R post	100
+F	12	sample	006 R post	100
+G	1	sample	007 L pre	100
+G	2	sample	007 L pre	100
+G	3	sample	007 R pre	100
+G	4	sample	007 R pre	100
+G	5	sample	008 L pre	100
+G	6	sample	008 L pre	100
+G	7	sample	008 R pre	100
+G	8	sample	008 R pre	100
+G	9	sample	009 L pre	100
+G	10	sample	009 L pre	100
+G	11	sample	009 R pre	100
+G	12	sample	009 R pre	100
+H	1	sample	007 L post	100
+H	2	sample	007 L post	100
+H	3	sample	007 R post	100
+H	4	sample	007 R post	100
+H	5	sample	008 L post	100
+H	6	sample	008 L post	100
+H	7	sample	008 R post	100
+H	8	sample	008 R post	100
+H	9	sample	009 L post	100
+H	10	sample	009 L post	100
+H	11	sample	009 R post	100
+H	12	sample	009 R post	100

@@ -1,0 +1,5 @@
+sample	standard_curve	ngml_av	se_mean	flag
+Mo Neg QC	only	40.96	0	LLQ
+Mo Pos Hi QC	only	268.498	16.161	
+Mo Pos Lo QC	only	65.965	8.097	
+Mo Pos Mid QC	only	146.473	13.19	

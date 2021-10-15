@@ -1,0 +1,21 @@
+sample	standard_curve	ngml_av	se_mean	flag
+Mo Neg QC	only	10.24	0	LLQ
+Mo Pos Hi QC	only	140.503	4	
+Mo Pos Lo QC	only	8.678	2.584	
+Mo Pos Mid QC	only	66.873	2.112	
+Mo Stab Pos Hi - 4C 4hrs	only	142.322	1.023	
+Mo Stab Pos Hi - Freeze Thaw 1 cycle	only	117.514	2.45	
+Mo Stab Pos Hi - Freeze Thaw 2 cycles	only	129	2.67	
+Mo Stab Pos Hi - Freshly Thawed	only	110.684	2.351	
+Mo Stab Pos Hi - Room Temp 4hrs	only	161.267	1.894	
+Mo Stab Pos Hi - Transfer Plastic 1 cycle	only	111.026	2.866	
+Mo Stab Pos Hi - Transfer Plastic 2 cycles	only	117.32	3.438	
+Mo Stab Pos Hi - Transfer Plastic 3 cycles	only	127.38	2.509	
+Mo Stab Pos Lo - 4C 4hrs	only	26.069	1.368	
+Mo Stab Pos Lo - Freeze Thaw 1 cycle	only	24.337	1.464	
+Mo Stab Pos Lo - Freeze Thaw 2 cycles	only	29.279	1.254	
+Mo Stab Pos Lo - Freshly Thawed	only	20.218	1.006	
+Mo Stab Pos Lo - Room Temp 4hrs	only	31.476	0.375	
+Mo Stab Pos Lo - Transfer Plastic 1 cycle	only	24.592	0.813	
+Mo Stab Pos Lo - Transfer Plastic 2 cycles	only	25.344	1.068	
+Mo Stab Pos Lo - Transfer Plastic 3 cycles	only	22.616	1.872	

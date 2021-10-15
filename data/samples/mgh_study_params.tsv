@@ -1,0 +1,7 @@
+gt	cat	disp	color	x	panel
+none	-	no mutation	#000000	1	2
+P102L	+	P102L	#1B9E77	2	3
+D178N	+	D178N	#D95F02	3	4
+E200K	+	E200K	#7570B3	4	5
+other	+	other	#12BAFF	5	6
+poscon	p	positive controls	#FF2019	6	1

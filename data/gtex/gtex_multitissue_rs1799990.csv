@@ -1,0 +1,50 @@
+﻿Tissue,Samples,NES,p-value,m-value
+Cells - Cultured fibroblasts,483,0.285,6.10E-24,1.000
+Esophagus - Muscularis,465,0.263,5.00E-16,1.000
+Cells - EBV-transformed lymphocytes,147,0.24,0.02,0.993
+Artery - Tibial,584,0.236,5.40E-17,1.000
+Minor Salivary Gland,144,0.223,7.20E-04,1.000
+Uterus,129,0.219,4.60E-04,1.000
+Esophagus - Gastroesophageal Junction,330,0.206,2.90E-08,1.000
+Pancreas,305,0.163,2.50E-05,1.000
+Colon - Sigmoid,318,0.163,3.70E-06,1.000
+Artery - Aorta,387,0.154,8.60E-06,1.000
+Nerve - Tibial,532,0.151,3.80E-14,1.000
+Brain - Spinal cord (cervical c-1),126,0.146,0.01,1.000
+Prostate,221,0.134,1.80E-04,1.000
+Testis,322,0.131,6.90E-08,1.000
+Breast - Mammary Tissue,396,0.127,2.10E-07,1.000
+Lung,515,0.127,9.40E-07,1.000
+Thyroid,574,0.121,1.20E-06,1.000
+Muscle - Skeletal,706,0.12,9.90E-07,1.000
+Pituitary,237,0.118,0.02,0.982
+Adrenal Gland,233,0.113,0.02,0.981
+Brain - Amygdala,129,0.112,0.03,0.980
+Liver,208,0.111,0.02,0.985
+Esophagus - Mucosa,497,0.108,6.50E-05,1.000
+Vagina,141,0.105,0.1,0.956
+Adipose - Subcutaneous,581,0.0965,6.80E-05,1.000
+Heart - Left Ventricle,386,0.0859,9.00E-04,1.000
+Skin - Sun Exposed (Lower leg),605,0.0855,3.20E-05,1.000
+Spleen,227,0.0854,0.02,0.993
+Adipose - Visceral (Omentum),469,0.0798,0.006,1.000
+Stomach,324,0.0796,3.40E-03,0.970
+Heart - Atrial Appendage,372,0.0795,0.01,0.998
+Brain - Nucleus accumbens (basal ganglia),202,0.0766,0.008,0.989
+Skin - Not Sun Exposed (Suprapubic),517,0.0753,6.00E-04,0.999
+Artery - Coronary,213,0.0721,0.1,0.903
+Brain - Putamen (basal ganglia),170,0.0703,0.09,0.937
+Brain - Cortex,205,0.0694,0.07,0.955
+Small Intestine - Terminal Ileum,174,0.0691,0.08,0.938
+Brain - Substantia nigra,114,0.0665,0.3,0.856
+Brain - Caudate (basal ganglia),194,0.0657,0.1,0.894
+Brain - Anterior cingulate cortex (BA24),147,0.0651,0.2,0.822
+Kidney - Cortex,73,0.0634,0.6,0.911
+Colon - Transverse,368,0.0565,4.00E-03,0.612
+Brain - Frontal Cortex (BA9),175,0.0485,0.2,0.712
+Brain - Hypothalamus,170,0.0342,0.4,0.416
+Brain - Hippocampus,165,0.0306,0.4,0.446
+Ovary,167,0.0232,0.7,0.608
+Whole Blood,670,0.0181,0.4,0.000
+Brain - Cerebellar Hemisphere,175,-0.0366,0.6,0.286
+Brain - Cerebellum,209,-0.0891,0.1,0.051

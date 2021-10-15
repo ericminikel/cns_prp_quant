@@ -1,0 +1,37 @@
+sample	standard_curve	ngml_av	se_mean	flag
+001 L post	only	46.755	0.261	
+001 L pre	only	42.465	0.703	
+001 R post	only	47.621	0.085	
+001 R pre	only	47.199	0.189	
+002 L post	only	51.856	1.29	
+002 L pre	only	47.351	0.967	
+002 R post	only	49.21	0.427	
+002 R pre	only	45.114	0.843	
+003 L post	only	45.597	0.445	
+003 L pre	only	45.582	0.375	
+003 R post	only	48.097	0.198	
+003 R pre	only	45.921	0.262	
+004 L post	only	25.262	1.123	
+004 L pre	only	26.431	0.132	
+004 R post	only	22.818	0.482	
+004 R pre	only	23.084	0.049	
+005 L post	only	27.994	0.28	
+005 L pre	only	27.762	0.61	
+005 R post	only	17.368	0.203	
+005 R pre	only	19.404	1.088	
+006 L post	only	18.95	0.379	
+006 L pre	only	17.622	0.195	
+006 R post	only	14.8	0	LLQ
+006 R pre	only	14.756	0.044	
+007 L post	only	18.93	1.492	
+007 L pre	only	18.054	1.391	
+007 R post	only	18.498	0.609	
+007 R pre	only	16.181	0.228	
+008 L post	only	14.8	0	LLQ
+008 L pre	only	15.96	0.123	
+008 R post	only	16.73	0.578	
+008 R pre	only	14.8	0	LLQ
+009 L post	only	16.637	0.553	
+009 L pre	only	16.044	0.112	
+009 R post	only	14.8	0	LLQ
+009 R pre	only	14.8	0	LLQ
