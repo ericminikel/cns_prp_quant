@@ -1935,7 +1935,7 @@ legend('bottomright',legend=modr_2wk_smry$dose,col=modr_2wk_smry$color,pch=19,te
 mtext(side=3, line=0.25, text='naïve mice\n2 weeks')
 mtext(LETTERS[panel], side=3, cex=2, adj = -0.1, line = 0.5)
 panel = panel + 1
-write(paste('Figure 4 results: mice 2 weeks post-dose each 1% RNA knockdown equals ',percent(coefficients(m)['r_kd']),' brain PrP knockdown\n',sep=''),text_stats_path,append=T)
+write(paste('Figure 4 results: mice 2 weeks post-dose each 1% brain RNA knockdown equals ',paste0(formatC(coefficients(m)['r_kd'],digits=2),'%'),' brain PrP knockdown\n',sep=''),text_stats_path,append=T)
 
 par(mar=c(4,5,3,1))
 xlims = c(0,1.25)
@@ -1959,7 +1959,7 @@ legend('bottomright',legend=modr_4wk_smry$dose,col=modr_4wk_smry$color,pch=19,te
 mtext(side=3, line=0.25, text='naïve mice\n4 weeks')
 mtext(LETTERS[panel], side=3, cex=2, adj = -0.1, line = 0.5)
 panel = panel + 1
-write(paste('Figure 4 results: mice 4 weeks post-dose each 1% brain RNA knockdown equals ',percent(coefficients(m)['r_kd']),' brain PrP knockdown\n',sep=''),text_stats_path,append=T)
+write(paste('Figure 4 results: mice 4 weeks post-dose each 1% brain RNA knockdown equals ',paste0(formatC(coefficients(m)['r_kd'],digits=2),'%'),' brain PrP knockdown\n',sep=''),text_stats_path,append=T)
 
 xlims = c(0,1.65)
 ylims = c(0,1.25)

@@ -34,9 +34,9 @@ Figure S5 results: rs17327121 eQTL CC vs. TT CSF [PrP] KS test P = 0.93
 
 Figure S5 results: highest LD with rs17327121 for any SNP in the CJD GWAS data: r^2=0.4733
 
-Figure 4 results: mice 2 weeks post-dose each 1% RNA knockdown equals 62% brain PrP knockdown
+Figure 4 results: mice 2 weeks post-dose each 1% brain RNA knockdown equals 0.62% brain PrP knockdown
 
-Figure 4 results: mice 4 weeks post-dose each 1% brain RNA knockdown equals 83% brain PrP knockdown
+Figure 4 results: mice 4 weeks post-dose each 1% brain RNA knockdown equals 0.83% brain PrP knockdown
 
 Figure 4 results: rats 4 weeks post-dose each 1% CSF PrP knockdown equals 1.39% brain PrP knockdown
 
