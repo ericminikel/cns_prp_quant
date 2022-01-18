@@ -742,38 +742,47 @@ brain_meta = read.table(sep='|',comment.char='',col.names=c('color','region'),te
 #EE7600|cerebellum
 #777777|white matter
 #584E56|pons
+#3B2E3A|medulla
 #352734|olivary nucleus
 "))
 
-p21 = elisa[elisa$plate==21,]
-hubrn = p21[p21$standard_curve=='HuPrP5',]
+p67 = elisa[elisa$plate==67,]
+
+hubrn = p67[!grepl('QC',p67$sample),]
 hubrn$indiv = substr(hubrn$sample,1,4)
-hubrn$region = trimws(substr(hubrn$sample,5,10))
-hubrn_meta = data.frame(region=c("BA 7", "CB", "ON", "Pu", "Thal", "WM"),
-                        x=c(1,4,6,2,3,5),
-                        disp=c('parietal cortex BA7','cerebellum','olivary nucleus','putamen','thalamus','white matter'))
+hubrn$region = trimws(substr(hubrn$sample,6,10))
+hubrn_meta = data.frame(region=c('HP',"BA7", "CB", "ON", "Pu", "Thal", "WM"),
+                        x=c(0,1,4,6,2,3,5),
+                        disp=c('hippocampus','parietal cortex BA7','cerebellum','olivary nucleus','putamen','thalamus','white matter'))
 hubrn_meta$color = brain_meta$color[match(hubrn_meta$disp, brain_meta$region)]
 hubrn$x = hubrn_meta$x[match(hubrn$region, hubrn_meta$region)]
 hubrn$disp = hubrn_meta$disp[match(hubrn$region, hubrn_meta$region)]
 hubrn$color = hubrn_meta$color[match(hubrn$region, hubrn_meta$region)]
 hubrn$y = max(hubrn$x) + 1 - hubrn$x
+
+# hubrn_hiqc = p67$ngml_av[p67$sample=='Mo Pos Hi QC']
+# hubrn$ngml_adj = hubrn$ngml_av / hubrn_hiqc
+
 hubrn_smry = summarize_ci(hubrn, bycols=c('region','disp','y','color'), valcol='ngml_av')
 
 human_region_aov = aov(ngml_av ~ region, data=hubrn)
 
 write(paste('Figure 1 results: human brain regions Type I ANOVA P = ',formatC(summary(human_region_aov)[[1]]['region','Pr(>F)'],format='g',digits=2),'\n',sep=''),text_stats_path,append=T)
 
-mobrn = elisa[elisa$plate==37 & grepl(' - ',elisa$sample),]
+mobrn = elisa[elisa$plate %in% c(65,66) & grepl(' - ',elisa$sample) & !grepl('old',elisa$sample),]
 mobrn$indiv = substr(mobrn$sample,1,2)
-mobrn$region = substr(mobrn$sample,6,8)
+mobrn$region = substr(mobrn$sample,6,9)
 
-mobrn_meta = data.frame(region=c('CB','HP','MC','Mid','PFC','Str'),
-                        y=c(1,6,4,2,5,3),
-                        disp=c('cerebellum','hippocampus','visual cortex','thalamus','prefrontal cortex','striatum'))
+mobrn_meta = data.frame(region=c('CB','HP','MC','Thal','PFC','Str','Pons','Medu'),
+                        y=c(3,8,6,4,7,5,2,1),# c(1,6,4,2,5,3),
+                        disp=c('cerebellum','hippocampus','visual cortex','thalamus','prefrontal cortex','striatum','pons','medulla'))
 mobrn_meta$color = brain_meta$color[match(mobrn_meta$disp, brain_meta$region)]
 mobrn$y = mobrn_meta$y[match(mobrn$region, mobrn_meta$region)]
 mobrn$disp = mobrn_meta$disp[match(mobrn$region, mobrn_meta$region)]
 mobrn$color = mobrn_meta$color[match(mobrn$region, mobrn_meta$region)]
+
+# mobrn_hiqc = elisa[elisa$plate %in% c(65,66) & elisa$sample=='Mo Pos Hi QC',c('plate','ngml_av')]
+# mobrn$ngml_adj = mobrn$ngml_av/mobrn_hiqc$ngml_av[match(mobrn$plate,mobrn_hiqc$plate)]
 
 mobrn_smry = summarize_ci(mobrn, bycols=c('region','disp','y','color'), valcol='ngml_av')
 
@@ -788,13 +797,18 @@ cybrn$indiv = substr(cybrn$sample,1,4)
 cybrn$sex = substr(cybrn$sample,5,5)
 cybrn$region = substr(cybrn$sample,7,11)
 
+
+
 cybrn_meta = data.frame(region=c('CB','HP','PFC','Thal','Pons'),
                         y=c(2,5,4,3,1),
-                        disp=c('cerebellum','hippocampus','prefrontal cortex','thalamus','pons'))
+                        disp=c('cerebellum','hippocampus','frontal cortex','thalamus','pons'))
 cybrn_meta$color = brain_meta$color[match(cybrn_meta$disp, brain_meta$region)]
 cybrn$y = cybrn_meta$y[match(cybrn$region, cybrn_meta$region)]
 cybrn$disp = cybrn_meta$disp[match(cybrn$region, cybrn_meta$region)]
 cybrn$color = cybrn_meta$color[match(cybrn$region, cybrn_meta$region)]
+
+# cybrn_hiqc = elisa$ngml_av[elisa$plate==54 & elisa$sample=='Mo Pos Hi QC']
+# cybrn$ngml_adj = cybrn$ngml_av/cybrn_hiqc
 
 cybrn_smry = summarize_ci(cybrn, bycols=c('region','disp','y','color'), valcol='ngml_av')
 
@@ -823,20 +837,20 @@ llq = 200*0.05
 
 img = image_read('data/diagrams/human-regions-cropped.png')
 img_png = image_convert(img, 'png')
-par(mar=c(0,0,3,0))
+par(mar=c(0,0,0.5,0))
 plot(as.raster(img_png))
-mtext(LETTERS[panel], side=3, cex=2, adj = 0.2, line = 0.5)
+mtext(LETTERS[panel], side=3, cex=2, adj = 0.2, line = -1.75)
 panel = panel + 1
 
 par(mar=c(4,5,3,1))
 ylims = range(hubrn_smry$y) + c(-0.5, 0.5)
-xlims = c(0, 250)
+xlims = c(0, 375)
 
 plot(NA, NA, xlim=xlims, ylim=ylims, xaxs='i', yaxs='i', ann=F, axes=F)
 axis(side=2, at=ylims, labels=NA, lwd.ticks=0)
 mtext(side=2, line=0.25, at=hubrn_smry$y, text=hubrn_smry$disp, col=hubrn_smry$color, las=2, cex=0.8)
-axis(side=1, at=0:3*100)
-axis(side=1, at=0:30*10, lwd=0, lwd.ticks=1, tck=-0.025, labels=NA)
+axis(side=1, at=0:4*100)
+axis(side=1, at=0:40*10, lwd=0, lwd.ticks=1, tck=-0.025, labels=NA)
 mtext(side=1, line=2.5, text='PrP (ng/g)')
 abline(v=llq, col='red', lty=3, lwd=1.25)
 mtext(side=1, line=0.25, at=llq, text='LLQ', col='red', cex=.6)
@@ -898,7 +912,7 @@ panel = panel + 1
 
 par(mar=c(4,5,3,1))
 ylims = range(mobrn_smry$y) + c(-0.5, 0.5)
-xlims = c(0, 150)
+xlims = c(0, 200)
 
 plot(NA, NA, xlim=xlims, ylim=ylims, xaxs='i', yaxs='i', ann=F, axes=F)
 axis(side=2, at=ylims, labels=NA, lwd.ticks=0)
@@ -1520,6 +1534,7 @@ for (this_peptide in peptides$peptide[peptides$human=='yes']) {
     abline(a=0, b=0.5, lwd=.25, col='#FF7777')
   }
   mtext(side=3, line=.5, text=this_peptide, cex=0.6)
+  mtext(side=3, line=-.25, text=peptides$codons_hu[peptides$peptide==this_peptide], cex=0.6)
   indiv_subs = indiv_rel[indiv_rel$peptide==this_peptide,]
   points(x=indiv_subs$elisa_rel, y=indiv_subs$ln_rel, pch=19, col=alpha(indiv_subs$color, ci_alpha))
   points(x=indiv_subs$elisa_rel[indiv_subs$mismatch], y=indiv_subs$ln_rel[indiv_subs$mismatch], pch=0, cex=1.25, col='red')
@@ -2064,6 +2079,7 @@ for (peptide in peptides$peptide[peptides$rat=='yes']) {
   segments(x0=smry_subs$brain_l95,  x1=smry_subs$brain_u95, y0=smry_subs$csf_mean, lwd=1.25,  col=smry_subs$txcolor)
   
   mtext(side=3, line=0, text=peptide, cex=0.6)
+  mtext(side=3, line=-.75, text=paste0(peptides$codons_ra[peptides$peptide==peptide],'   '), cex=0.6)
   mtext(LETTERS[panel], side=3, cex=2, adj = -0.2, line = 0.75)
   panel = panel + 1
   #  smry_rows = smry27$peptide==peptide
