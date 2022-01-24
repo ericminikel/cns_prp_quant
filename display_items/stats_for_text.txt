@@ -1,10 +1,10 @@
-Last updated: 2021-10-15
+Last updated: 2022-01-24
 
 Figure S2F results: N=64 CSF samples analyzed by both our ELISA and BetaPrion, correlation was rho = 0.84, P < 1.0e-10 and mean ratio was 6.1
 
-Figure 1 results: human brain regions Type I ANOVA P = 0.0033
+Figure 1 results: human brain regions Type I ANOVA P = 0.0007
 
-Figure 1 results: mouse brain regions Type I ANOVA P = 3.4e-10
+Figure 1 results: mouse brain regions Type I ANOVA P = 3.9e-26
 
 Figure 1 results: cynomologus brain regions Type I ANOVA P = 3.2e-14
 

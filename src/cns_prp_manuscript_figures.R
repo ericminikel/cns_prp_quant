@@ -1379,7 +1379,7 @@ pep_perf_and_retest = sqldf("
                             ;")
 
 write.table(format(pep_perf_and_retest[,c('ncorder','peptide','mean_ln','mean_techrep_cv_ln','mean_testretest_cv_ln')], digits=2),
-            'display_items/table_s4.tsv', sep='\t', col.names=T, quote=F, row.names=F)
+            'display_items/table-s4.tsv', sep='\t', col.names=T, quote=F, row.names=F)
 
 pep_tech_perf$x = peptides$ncorder[match(pep_tech_perf$peptide, peptides$peptide)]
 pep_tech_perf = pep_tech_perf[pep_tech_perf$peptide %in% peptides$peptide[peptides$human=='yes'],]

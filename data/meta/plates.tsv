@@ -21,3 +21,6 @@ plateno	metafile	datafile	operator	purpose
 046	meta_data_csELISA-046.tsv	2021-07-28-00046-salvage.csv	Mortberg	ASO 60 dpi TE
 047	meta_data_csELISA-047.tsv	2021-07-30_MM_csELISA-047.csv	Mortberg	dose-response 4-week ASO mouse brain
 054	meta_data_csELISA-054.tsv	2021-10-04-csELISA-054.csv	Mortberg	NHP regions
+065	meta_data_csELISA-065.tsv	2021-12-21_csELISA-065_MM.csv	Mortberg	mouse regions revisited part 1
+066	meta_data_csELISA-066.tsv	2021-12-23_csELISA-066_MM.csv	Mortberg	mouse regions revisited part 2
+067	meta_data_csELISA-067.tsv	2022-01-12_csELISA-067_MM.csv	Mortberg	human regions revisited
