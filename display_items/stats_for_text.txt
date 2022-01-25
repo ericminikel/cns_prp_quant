@@ -1,4 +1,4 @@
-Last updated: 2022-01-24
+Last updated: 2022-01-25
 
 Figure S2F results: N=64 CSF samples analyzed by both our ELISA and BetaPrion, correlation was rho = 0.84, P < 1.0e-10 and mean ratio was 6.1
 
@@ -11,6 +11,10 @@ Figure 1 results: cynomologus brain regions Type I ANOVA P = 3.2e-14
 Figure 2 results: in GTEx, sex is confounded with Hardy scale, Chi-square test P < 1.0e-10
 
 Figure 2 results: in GTEx, age is confounded with Hardy scale, Chi-square test P < 1.0e-10
+
+Figure 2C results: CSF PrP in males vs. females Kolmogorov-Smirnov test P = 0.81, N= 16 vs. 31 
+
+Figure 2D results: CSF PrP vs. decade of life P = 0.28, rho = 0.16, N = 47 
 
 Figure 2 results: aged rat brain, linear regression of [PrP] vs age P  = 0.53 
 

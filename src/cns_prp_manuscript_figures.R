@@ -1127,6 +1127,10 @@ mgh_by_demo$sex_x = sex_params$x[match(mgh_by_demo$sex, sex_params$sex)]
 mgh_by_demo$sex_x_plot = jitter(mgh_by_demo$sex_x, amount=.125)
 mgh_by_demo_smry = summarize_ci(mgh_by_demo, bycols=c('sex','sex_x','color'), valcol=c('prp_mean'))
 
+sex_ks_obj = ks.test(mgh_by_demo$prp_mean[mgh_by_demo$sex=='M'], mgh_by_demo$prp_mean[mgh_by_demo$sex=='F'], alternative='two.sided')
+
+write(paste('Figure 2C results: CSF PrP in males vs. females Kolmogorov-Smirnov test P',format_p(sex_ks_obj$p.value),', N= ',sum(mgh_by_demo$sex=='M'),' vs. ',sum(mgh_by_demo$sex=='F'),' \n',sep=''),text_stats_path,append=T)
+
 barwidth=0.25  
 
 par(mar=c(2,5,3,2))
@@ -1145,6 +1149,10 @@ segments(x0=mgh_by_demo_smry$sex_x-barwidth, x1=mgh_by_demo_smry$sex_x+barwidth,
 arrows(x0=mgh_by_demo_smry$sex_x, y0=mgh_by_demo_smry$l95, y1=mgh_by_demo_smry$u95, code=3, angle=90, length=0.1, col=mgh_by_demo_smry$color)
 mtext(LETTERS[panel], side=3, cex=2, adj = -0.1, line = 0.5)
 panel = panel + 1
+
+age_spearman_obj = suppressWarnings(cor.test(mgh_by_demo$decade, mgh_by_demo$prp_mean, method='spearman', alternative='two.sided'))
+
+write(paste('Figure 2D results: CSF PrP vs. decade of life P',format_p(age_spearman_obj$p.value),', rho = ',formatC(age_spearman_obj$estimate,format='f',digits=2),', N = ',nrow(mgh_by_demo),' \n',sep=''),text_stats_path,append=T)
 
 mgh_by_decade_smry = summarize_ci(mgh_by_demo, bycols=c('decade'), valcol=c('prp_mean'))
 
