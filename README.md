@@ -18,7 +18,7 @@ In this repository, you can:
 
 + Read the [full text](/docs/mortberg-2021-medrxiv-v2.pdf) of the paper.
 + Download the [full assay protocol](/docs/elisa-protocol.pdf) and [1-page working checklist](/docs/elisa-checklist.pdf) to implement the assay yourself.
-+ Browse the study's [raw data](/data)
++ Browse the study's [raw data](/data). (Note: skyline files from mass spectrometry are deposited in [Panorama](https://panoramaweb.org/mortprpjci2202fz.url) under ProteomeXchange submission [PXD031432](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD031432).)
 + Run our source code to reproduce the figures in the manuscript from the raw data. Just sync the repository and run `Rscript src/cns_prp_manuscript_figures.R`. Dependencies are `tidyverse`, `sqldf`, `reshape2`, `minpack.lm`, and `magick`. You can also browse the other [source files](/src) to see how we fit curves, process data, and so on.
 
 
